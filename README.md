@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanroxannem
+- 👋 Hi, I’m Roxanne Tan.
 - 👀 I’m interested in photography.
 - 🌱 I’m currently learning more about automation specifically with Selenium, TestNG and Java.
 - 💞️ I’m looking to collaborate on building and improving automation framework for BDD
